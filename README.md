@@ -8,4 +8,4 @@ Used  sklearn to implement statistical concepts, and linear regression
 Combined all the task into an object using pickle see linear_regression_model.pkl
 used streamlit to build the end.
 
-![Comparing Actual data and Predicted data](https://github.com/chumeh/Salary-Prediction/blob/main/Screenshot%202024-11-17%20at%208.45.49%20PM.png)
+![Comparing Actual data and Predicted data](https://github.com/chumeh/Salary-Prediction/blob/main/salary%20vs%20experience.png)
