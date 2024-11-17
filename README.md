@@ -1,5 +1,5 @@
 # Salary-Prediction
-
+![Front End of App]()
 
 An app that uses linear regression to predict the future salary of workers based on experience
 Using the dataset called salary_data, i applied EDA to have accurate data
